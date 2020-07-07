@@ -1,1 +1,1 @@
-# a sample Java Project - CounterWebApp
+# A sample Java Project - CounterWebApp
