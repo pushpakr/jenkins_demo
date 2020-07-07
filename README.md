@@ -1,1 +1,1 @@
-# jenkins_demo
+# a sample Java Project - CounterWebApp
